@@ -29,7 +29,7 @@ module.exports = {
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
   // googleFontSans - the sans serif font used in onedrive-vercel-index.
-  googleFontSans: 'Inter',
+  googleFontSans: 'Pacifico',
   // googleFontMono - the monospace font used in onedrive-vercel-index.
   googleFontMono: 'Fira Mono',
   // googleFontLinks -  an array of links for referencing the google font assets.
